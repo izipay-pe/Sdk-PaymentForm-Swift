@@ -19,9 +19,9 @@ $ sudo gem install cocoapods
 ``` 
 
 ## 1.- Crear el proyecto
-* Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Embedded-PaymentForm-React/archive/refs/heads/main.zip) o clonarlo desde Git.
+* Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Sdk-PaymentForm-Swift/archive/refs/heads/main.zip) o clonarlo desde Git.
 ```sh
-git clone https://github.com/izipay-pe/Embedded-PaymentForm-React.git
+git clone https://github.com/izipay-pe/Sdk-PaymentForm-Swift.git
 ``` 
 
 * Ingrese a la carpeta raiz del proyecto.
