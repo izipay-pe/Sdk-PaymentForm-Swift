@@ -12,7 +12,11 @@
 ## Requisitos Previos
 
 * Acceso al Back Office Vendedor (BOV) y Claves de autenticación. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
-* Debe instalar la [versión de LTS node.js](https://nodejs.org/es/).
+* Debe instalar XCODE (a partir de la versión 13 en adelante para que funcione el SDK).
+* Instalar CocoaPods [mediante este link](https://cocoapods.org/) con el comando:
+```sh
+$ sudo gem install cocoapods
+``` 
 
 ## 1.- Crear el proyecto
 * Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Embedded-PaymentForm-React/archive/refs/heads/main.zip) o clonarlo desde Git.
