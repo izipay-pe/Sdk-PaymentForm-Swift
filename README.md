@@ -13,7 +13,7 @@
 
 * Acceso al Back Office Vendedor (BOV) y Claves de autenticación. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
 * Debe instalar XCODE (a partir de la versión 13 en adelante para que funcione el SDK).
-* Instalar CocoaPods [mediante este link](https://cocoapods.org/) con el comando:
+* Instalar CocoaPods en la Terminal [mediante este link](https://cocoapods.org/) con el comando:
 ```sh
 $ sudo gem install cocoapods
 ``` 
